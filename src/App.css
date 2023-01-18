@@ -50,6 +50,7 @@
 }
 
 .information img {
+  display: flex;
   width: 150px;
   height: 200px;
   border-radius: 50%;
@@ -65,3 +66,6 @@
   font-size: 14px;
 }
 
+.rating{
+  display: flex;
+}
